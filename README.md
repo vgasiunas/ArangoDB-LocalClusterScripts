@@ -15,7 +15,7 @@ If you want to restart without resetting data use the following scripts:
 
 Sample benchmark scripts can be used for testing the deployment:
 - `bench-example.sh` to test over plain HTTP
-- `bench-ssl-example.sh' to test over HTTPS
+- `bench-ssl-example.sh` to test over HTTPS
 
 To stop the database, use `kill-db.sh`.
 
